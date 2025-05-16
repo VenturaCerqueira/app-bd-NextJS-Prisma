@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@prisma/client": "^6.8.1",
+    "@tabler/icons-react": "^3.31.0",
     "next": "15.3.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
@@ -25,5 +26,18 @@
     "prisma": "^6.8.1",
     "tailwindcss": "^4",
     "typescript": "^5"
-  }
+  },
+  "description": "Este é um projeto [Next.js](https://nextjs.org) criado com [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VenturaCerqueira/app-bd-NextJS-Prisma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VenturaCerqueira/app-bd-NextJS-Prisma/issues"
+  },
+  "homepage": "https://github.com/VenturaCerqueira/app-bd-NextJS-Prisma#readme",
+  "keywords": []
 }
